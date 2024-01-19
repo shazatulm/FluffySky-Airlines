@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "870390345683",
+    "project_id": "fluffysky-airlines-2aec8",
+    "storage_bucket": "fluffysky-airlines-2aec8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:870390345683:android:767601c9c641461f768926",
+        "android_client_info": {
+          "package_name": "com.example.fluffyskyairlines"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIgRvMP08YCnRLaih8f6Itc2h4I9s9yhY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
